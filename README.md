@@ -15,3 +15,7 @@ https://youtube.com/shorts/IJ83XG20vzI
 
 ## Demonstration Video
 https://youtube.com/shorts/4HYxHA5sPD0
+
+## BOM
+| Part Name          | Category         | Price|
+| :----------------- | :---------------| :---- |
