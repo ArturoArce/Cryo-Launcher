@@ -7,6 +7,8 @@ This Cryo-launcher was made for the Hack Club Stasis hackathon, which asked us t
 ## Pictures/Videos
 <img width="851" height="428" alt="image" src="https://github.com/user-attachments/assets/8a5657ba-98f6-4e8c-b8f6-d01451e3e301" />
 <img width="3024" height="4032" alt="IMG_0780" src="https://github.com/user-attachments/assets/892c7cb7-d4c5-4315-807c-f83709a7fa1e" />
+<img width="741" height="988" alt="0" src="https://github.com/user-attachments/assets/fcb3eed6-f79b-4186-a4ba-6d22d202fa89" />
+
 https://youtube.com/shorts/IhQS53krwU4
 https://youtube.com/shorts/hu8MYdvchnU
 https://youtube.com/shorts/IJ83XG20vzI
